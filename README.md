@@ -1,1 +1,1 @@
-# duke-bme848-trivu
+# This is Tri's repo for lab reports
